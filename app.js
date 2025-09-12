@@ -253,7 +253,7 @@
   // ====== Checkout (FormSubmit wiring; native POST) ======
   const COPY_ME = ''; // e.g. 'orders@yourdomain.com' or leave empty
 
-  const FORMSUBMIT_ACTION = 'https://formsubmit.co/'; // enforced
+  const FORMSUBMIT_ACTION = 'https://formsubmit.co/ileather1957@gmail.com'; // enforced
   if (ckForm) {
     const currentAction = ckForm.getAttribute('action') || '';
     if (!/^https:\/\/formsubmit\.co\//i.test(currentAction)) {
