@@ -253,7 +253,7 @@
   // ====== Checkout (FormSubmit wiring; native POST) ======
   const COPY_ME = ''; // e.g. 'orders@yourdomain.com' or leave empty
 
-  const FORMSUBMIT_ACTION = 'https://formsubmit.co/ileather1957@gmail.com'; // enforced
+  const FORMSUBMIT_ACTION = 'https://formsubmit.co/5f43af799c3278828ca805496601ffbc'; // enforced
   if (ckForm) {
     const currentAction = ckForm.getAttribute('action') || '';
     if (!/^https:\/\/formsubmit\.co\//i.test(currentAction)) {
