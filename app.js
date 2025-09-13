@@ -400,7 +400,7 @@
 
     if (elMain) elMain.hidden = true;
     elProductPage.hidden = false;
-    document.title = p ? `${p.title} — MiniShop` : 'MiniShop';
+    document.title = p ? `${p.title} — "Switch Plates & Electrical Covers | iSwitch"` : '"Switch Plates & Electrical Covers | iSwitch"';
     window.scrollTo({ top: 0, behavior: 'instant' });
   }
 
