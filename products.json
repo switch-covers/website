@@ -57,6 +57,20 @@
       "new": false,
       "description": "This image shows a decorative duplex outlet cover plate with a brushed metallic finish. The design features vertical grooves running from top to bottom, giving it a sleek and modern appearance. The two outlet openings are symmetrically positioned in the center, with rounded rectangular shapes, separated by a single flat-head screw that secures the plate. The metallic sheen combined with the clean grooves creates a contemporary look, while the beige background of the outlet openings provides a subtle contrast. This cover plate balances both functionality and style, making it suitable for modern interiors..",
       "image": "./images/sku-153DAN.png"
+    },
+    {
+      "id": "sku-153TAN",
+      "name": "SKU # 153TAN",
+      "price": 19.99,
+      "category": "Single Switch",
+      "brand": "Generic",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "The image shows a metallic surface with vertical grooves running uniformly from top to bottom, giving it a brushed, industrial finish. At the center, an engraved letter "Z" is prominently etched into the metal, with a crisp and polished appearance. Above and below the "Z," there are two countersunk circular holes, perfectly aligned along the same vertical axis. The combination of the grooves, holes, and engraved letter creates a balanced and precise mechanical design.",
+      "image": "./images/sku-153TAN.png"
     }
   ]
 }
