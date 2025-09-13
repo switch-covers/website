@@ -29,6 +29,20 @@
       "new": false,
       "description": "A sleek and durable triple-gang wall plate crafted from brushed stainless steel with vertical ridges for a modern, textured look. Designed to accommodate three standard light switches, it features a polished finish, beveled edges, and six precision-fitted screws for secure installation. Perfect for adding a stylish and contemporary touch to any interior space.",
       "image": "./images/sku-153RRRAN.png"
+    },
+     {
+      "id": "sku-153TTTAN",
+      "name": "SKU # 153TTTAN",
+      "price": 19.99,
+      "category": "Triple Switch",
+      "brand": "Generic",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "A brushed stainless steel triple toggle light switch cover with a vertical ribbed design. The plate has three evenly spaced rectangular openings for switches, each secured by polished screws aligned vertically. The metallic finish highlights a clean, modern aesthetic, with subtle shading that emphasizes the grooves and edges for a refined look.",
+      "image": "./images/sku-153TTTAN.png"
     }
   ]
 }
