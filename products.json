@@ -43,6 +43,20 @@
       "new": false,
       "description": "A brushed stainless steel triple toggle light switch cover with a vertical ribbed design. The plate has three evenly spaced rectangular openings for switches, each secured by polished screws aligned vertically. The metallic finish highlights a clean, modern aesthetic, with subtle shading that emphasizes the grooves and edges for a refined look.",
       "image": "./images/sku-153TTTAN.png"
+    },
+    {
+      "id": "sku-153DAN",
+      "name": "SKU # 153DAN",
+      "price": 19.99,
+      "category": "Single Switch",
+      "brand": "Generic",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "This image shows a decorative duplex outlet cover plate with a brushed metallic finish. The design features vertical grooves running from top to bottom, giving it a sleek and modern appearance. The two outlet openings are symmetrically positioned in the center, with rounded rectangular shapes, separated by a single flat-head screw that secures the plate. The metallic sheen combined with the clean grooves creates a contemporary look, while the beige background of the outlet openings provides a subtle contrast. This cover plate balances both functionality and style, making it suitable for modern interiors..",
+      "image": "./images/sku-153TTTAN.png"
     }
   ]
 }
