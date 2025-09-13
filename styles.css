@@ -403,6 +403,7 @@ body.dark .ck-field textarea:focus{ box-shadow: 0 0 0 3px rgba(59,130,246,.35) }
   object-fit: contain;    /* keep aspect ratio, no cropping */
   object-position: center;
   display: block;
+  overflow: hidden;
 }
 
 
