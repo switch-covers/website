@@ -359,21 +359,24 @@ body.dark .ck-field input:focus,
 body.dark .ck-field textarea:focus{ box-shadow: 0 0 0 3px rgba(59,130,246,.35) }
 
 /* Product card thumbnail */
-.thumb {
-  aspect-ratio: 16 / 10; /* Keeps consistent width/height ratio */
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.thumb{
+  aspect-ratio: 16 / 10;              /* consistent tile height from width */
+  display: grid; 
+  place-items: center;                 /* center both axes */
   background: linear-gradient(135deg, #0b1229, #152654);
   position: relative;
-  overflow: hidden; /* Prevents images from spilling out */
-  height: 200px; /* 🔑 Force consistent height for all thumbs */
+  overflow: hidden;
 }
 
-.thumb img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain; /* Keeps proportions without stretching */
+/* Image: fill box logically, never stretch, always centered */
+.thumb img{
+  width: 100%;
+  height: 100%;
+  display: block;                      /* removes baseline gap */
+  object-fit: contain;                 /* keep proportions */
+  object-position: center center;      /* force centering */
+  /* optional: drop-shadow if you like */
   filter: drop-shadow(0 10px 20px rgba(0,0,0,.45));
+  overflow: hidden;
 }
 
