@@ -408,7 +408,7 @@
     const route = currentRoute();
     const m = route.match(/^\/?p\/(.+)$/);
     if (m) showProduct(decodeURIComponent(m[1]));
-    else { document.title = 'MiniShop'; showList(); }
+    else { document.title = 'Switch Plates & Electrical Covers | iSwitch'; showList(); }
   }
 
   window.addEventListener('hashchange', handleRoute);
