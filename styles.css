@@ -380,3 +380,29 @@ body.dark .ck-field textarea:focus{ box-shadow: 0 0 0 3px rgba(59,130,246,.35) }
   overflow: hidden;
 }
 
+/* Product page image: same visual size for any image */
+.pp-media{
+  position: relative;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #eef2f7, #fff);
+  border-radius: 12px;
+
+  /* fixed-but-responsive height so every product looks the same */
+  height: clamp(320px, 42vw, 520px);   /* min -> fluid -> max */
+  padding: 12px;                       /* breathing room for contain */
+}
+@media (max-width: 900px){
+  .pp-media{ height: clamp(260px, 55vw, 380px); }
+}
+
+/* Force the image to fill the box proportionally */
+.pp-media img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;    /* keep aspect ratio, no cropping */
+  object-position: center;
+  display: block;
+}
+
+
