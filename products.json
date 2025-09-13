@@ -15,6 +15,20 @@
       "new": false,
       "description": "Upgrade your home’s look with the Amerelle Style Lacquer Preserved Duplex Outlet Wall Plate. Crafted from durable plated steel with a sleek lacquer-preserved finish, this wall plate combines lasting protection with timeless design. Its smooth, reflective surface resists tarnishing and wear, making it ideal for high-traffic areas. Easy to install and designed to fit standard duplex outlets, this wall plate is a perfect choice for adding a touch of modern elegance to any room.",
       "image": "./images/sku-1610.png"
+    },
+    {
+      "id": "sku-153RRRAN",
+      "name": "SKU # 153RRRAN",
+      "price": 19.99,
+      "category": "Triple Switch",
+      "brand": "Generic",
+      "rating": 4.6,
+      "reviews": 184,
+      "stock": 42,
+      "featured": true,
+      "new": false,
+      "description": "A sleek and durable triple-gang wall plate crafted from brushed stainless steel with vertical ridges for a modern, textured look. Designed to accommodate three standard light switches, it features a polished finish, beveled edges, and six precision-fitted screws for secure installation. Perfect for adding a stylish and contemporary touch to any interior space.",
+      "image": "./images/sku-153RRRAN.png"
     }
   ]
 }
