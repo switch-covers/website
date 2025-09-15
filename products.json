@@ -423,20 +423,6 @@
       "image": "./images/sku-C3005DWL.png"
     },
     {
-      "id": "sku-8349RRRA",
-      "name": "SKU # 8349RRRA",
-      "price": 19.99,
-      "category": "Triple Switch",
-      "brand": "Generic",
-      "rating": 4.6,
-      "reviews": 184,
-      "stock": 42,
-      "featured": true,
-      "new": false,
-      "description": "A switch cover is a protective and decorative plate designed to fit over electrical switches. It serves both functional and aesthetic purposes, providing a finished look to walls while safeguarding the switch mechanism. Typically made from durable materials to help prevent dust, moisture, and accidental contact with wiring. They are available in a wide variety of styles, colors, and finishes to complement interior décor, from simple and modern designs to ornate and decorative options. Easy to install and maintain, switch covers are an essential element in residential, commercial, and industrial electrical setups, ensuring safety, durability, and visual appeal.",
-      "image": "./images/sku-8349RRRAL.png"
-    },
-    {
       "id": "sku-8300TN",
       "name": "SKU # 8300TN",
       "price": 19.99,
@@ -533,20 +519,6 @@
       "new": false,
       "description": "A switch cover is a protective and decorative plate designed to fit over electrical switches. It serves both functional and aesthetic purposes, providing a finished look to walls while safeguarding the switch mechanism. Typically made from durable materials to help prevent dust, moisture, and accidental contact with wiring. They are available in a wide variety of styles, colors, and finishes to complement interior décor, from simple and modern designs to ornate and decorative options. Easy to install and maintain, switch covers are an essential element in residential, commercial, and industrial electrical setups, ensuring safety, durability, and visual appeal.",
       "image": "./images/sku-155DBRNB.png"
-    },
-    {
-      "id": "sku-84TRBL",
-      "name": "SKU # 84TRBL",
-      "price": 19.99,
-      "category": "Single Switch",
-      "brand": "Generic",
-      "rating": 4.6,
-      "reviews": 184,
-      "stock": 42,
-      "featured": true,
-      "new": false,
-      "description": "A switch cover is a protective and decorative plate designed to fit over electrical switches. It serves both functional and aesthetic purposes, providing a finished look to walls while safeguarding the switch mechanism. Typically made from durable materials to help prevent dust, moisture, and accidental contact with wiring. They are available in a wide variety of styles, colors, and finishes to complement interior décor, from simple and modern designs to ornate and decorative options. Easy to install and maintain, switch covers are an essential element in residential, commercial, and industrial electrical setups, ensuring safety, durability, and visual appeal.",
-      "image": "./images/sku-184TRBL.png"
     },
     {
       "id": "sku-86DANL",
