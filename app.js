@@ -46,8 +46,8 @@
 
   // ====== Config ======
   const CART_KEY     = 'minishop:cart';
-  const TAX_RATE     = 0.00; // set your tax rate here
-  const SHIP_LABEL   = 'Free';
+  const TAX_RATE     = 9.99; // set your tax rate here
+  const SHIP_LABEL   = 'Standard';
 
   // ====== State ======
   let PRODUCTS = [];
